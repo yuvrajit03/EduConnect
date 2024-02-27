@@ -1,4 +1,4 @@
-# bhimani_classes
+# EduConnect
 
 A new Flutter project.
 
